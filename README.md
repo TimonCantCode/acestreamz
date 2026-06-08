@@ -73,7 +73,7 @@ http://192.168.178.50:6878
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/acestreamz.git
+git clone https://github.com/TimonCantCode/acestreamz.git
 cd acestreamz
 npm install
 cp .env.example .env
