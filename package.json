@@ -1,0 +1,25 @@
+{
+  "name": "acestreamz",
+  "version": "0.1.0",
+  "description": "Stateless Stremio/Nuvio-compatible AceStream channel manager for user-provided Content IDs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "acestream",
+    "stremio",
+    "nuvio",
+    "addon",
+    "live-tv",
+    "self-hosted",
+    "stateless"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "sharp": "^0.33.5"
+  }
+}
