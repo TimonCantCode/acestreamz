@@ -72,6 +72,8 @@ http://192.168.178.50:6878
 
 ## Installation
 
+On Linux/MacOS:
+
 ```bash
 git clone https://github.com/TimonCantCode/acestreamz.git
 cd acestreamz
@@ -84,9 +86,11 @@ npm start
 On Windows CMD:
 
 ```cmd
+git clone https://github.com/TimonCantCode/acestreamz.git
+cd acestreamz
+npm install
 copy .env.example .env
 copy channels.example.json channels.json
-npm install
 npm start
 ```
 
